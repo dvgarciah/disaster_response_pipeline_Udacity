@@ -21,20 +21,20 @@ The project is about This project is about analyzing message data for disaster r
 
 ## File description
 - app
-| - template
-| |- master.html  # main page of web app
-| |- go.html  # classification result page of web app
-|- run.py  # Flask file that runs app
+    - template
+        - master.html  # main page of web app
+        - go.html  # classification result page of web app
+    - run.py  # Flask file that runs app
 
 - data
-|- disaster_categories.csv  # categories data to process 
-|- disaster_messages.csv  # messages data to process
-|- process_data.py        # cleaning the data
-|- ETL Pipeline Preparation.ipynb    # notebook is same as the process_data.py
+    - disaster_categories.csv  # categories data to process 
+    - disaster_messages.csv  # messages data to process
+    - process_data.py        # cleaning the data
+    - ETL Pipeline Preparation.ipynb    # notebook is same as the process_data.py
 
 - models
-|- train_classifier.py      #running this gives the model
-|- ML Pipeline Preparation.ipynb  # notebook is same as the train_classifier.py   
+    - train_classifier.py      #running this gives the model
+    - ML Pipeline Preparation.ipynb  # notebook is same as the train_classifier.py   
 
 - README.md
 
