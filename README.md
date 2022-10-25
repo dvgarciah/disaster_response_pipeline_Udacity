@@ -38,11 +38,16 @@ The project is about This project is about analyzing message data for disaster r
 
 - README.md
 
+## Acknowledgements
+I consulted the following Github repositories to put together this projec:
+    - https://github.com/louisteo9/udacity-disaster-response-pipeline
+    - https://github.com/Ifyokoh/Disaster-Response-Pipeline
+    - https://github.com/odmirajkar/Udacity-Disaster-Response-Pipeline-Project
+    - https://github.com/atwahsz/Disaster-Response-Pipeline
+
 ## Results
 
-
 ![1  main page](https://user-images.githubusercontent.com/104189092/197836163-599e1601-d0bf-4aed-8cf9-4249f11a5d85.png)
-
 ![2](https://user-images.githubusercontent.com/104189092/197836210-e7169aa2-95de-4943-9988-8a4e2585bb0d.png)
 ![3](https://user-images.githubusercontent.com/104189092/197836214-a0714d3e-3071-4a00-9f7d-87f084869cb2.png)
 ![4](https://user-images.githubusercontent.com/104189092/197836218-ec7195dd-4aec-49e6-b4e6-b37cda229be3.png)
